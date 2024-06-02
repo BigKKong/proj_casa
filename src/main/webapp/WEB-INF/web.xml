@@ -36,4 +36,12 @@
   	<role-name>registeredUser</role-name>
   </security-role>
   
+  <!-- Configurazione della pagina di errore -->
+    <error-page>
+        <error-code>500</error-code>
+        <location>/error500.jsp</location>
+    </error-page>
+  
+  
+  
 </web-app>
