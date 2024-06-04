@@ -14,7 +14,6 @@ import javax.servlet.http.HttpSession;
 
 import model.OrderBean;
 import model.OrderModel;
-import model.ProductBean;
 
 /**
  * Servlet implementation class AdminControl
